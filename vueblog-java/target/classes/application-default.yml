@@ -5,7 +5,7 @@ spring:
     url: jdbc:mysql://localhost:3306/vueblog?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=Asia/Shanghai
 #    url: jdbc:mysql://localhost:3306/vueblog?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=UTC
     username: root
-    password: "1284541."
+    password: "66666666"
 shiro-redis:
   enabled: true
   redis-manager:
